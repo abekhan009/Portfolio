@@ -16,10 +16,10 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: 'Property Listing MERN App',
+      title: 'Visionary Spaces',
       category: 'web development',
       image: project1,
-      link: '#'
+      link: 'https://visionary-spaces-fyp-tcq4.vercel.app/'
     },
     {
       id: 2,
